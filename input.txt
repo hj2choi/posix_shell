@@ -1,0 +1,7 @@
+total 40
+drwxrwxr-x 2 hjchoi hjchoi  4096 Mar 24 20:31 .
+drwxrwxr-x 9 hjchoi hjchoi  4096 Mar 14 18:22 ..
+-rw-rw-r-- 1 hjchoi hjchoi    57 Mar 24 02:07 input.txt
+-rwxrwxr-x 1 hjchoi hjchoi 14067 Mar 24 20:31 hongjoon_shell
+-rw-rw-r-- 1 hjchoi hjchoi  5290 Mar 24 20:31 hongjoon_shell.c
+-rw-rw-r-- 1 hjchoi hjchoi     3 Mar 24 20:32 output.txt
